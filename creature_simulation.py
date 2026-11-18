@@ -10,7 +10,7 @@ class Creature:
             return
 
         print(f"{self.name} attacks {target.name} for {self.attack_power} damage!")
-        target.hp = max(0, target.hp - self.attack_power)
+        target.hp -= self.attack_power
 
     def is_alive(self):
         return self.hp > 0
