@@ -1,0 +1,1 @@
+I dont know what to write here, so imagine this is a useful reflection of what I did in this assignment, I think I understanding more concept about class in the rate of 1-10 gotta be by 1.7E9999 because I dont know shit about class method
